@@ -2,7 +2,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
-To run project clone the repo and run following commands from the roo folder (the one where package.json is located)
+To run project clone the repo and run following commands from the root folder (the one where package.json is located)
 
 ### `npm install`
 ### `npm start`
